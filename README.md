@@ -1,10 +1,12 @@
 # scgsensors
 
-# ------------------ INSTALL -------------------
+## Install setup
 
+```
 # npm install chart.js
 
 # npm install vue-chartjs@4
+```
 
 ## Project setup
 
